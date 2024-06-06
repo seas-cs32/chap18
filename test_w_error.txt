@@ -1,0 +1,72 @@
+Name: Which 'kevin bacon'?
+ID: 9323132, Name: Kevin Bacon, Birth: 
+ID: 102, Name: Kevin Bacon, Birth: 1958
+Intended Person ID: Name: Running a dfs search
+66 degrees of separation.
+1: Kevin Bacon and John Goodman starred in Death Sentence
+2: John Goodman and Carey Mulligan starred in Inside Llewyn Davis
+3: Carey Mulligan and Joel Edgerton starred in The Great Gatsby
+4: Joel Edgerton and Hanna Mangan Lawrence starred in Acolytes
+5: Hanna Mangan Lawrence and Aden Young starred in Dark Frontier
+6: Aden Young and Marshall Napier starred in Shotgun Wedding
+7: Marshall Napier and Bruce Lyons starred in The Navigator: A Medieval Odyssey
+8: Bruce Lyons and Richard Bekins starred in Model Behavior
+9: Richard Bekins and Heidi Armbruster starred in The Northern Kingdom
+10: Heidi Armbruster and Katie Kreisler starred in Poor Behavior
+11: Katie Kreisler and Bobby Pataki starred in Approaching Union Square
+12: Bobby Pataki and Caroline Whitney Smith starred in Love Like Blood
+13: Caroline Whitney Smith and Abby Wathen starred in MARy
+14: Abby Wathen and Marlyn Mason starred in Besetment
+15: Marlyn Mason and Barbara Parkins starred in Christina
+16: Barbara Parkins and Sylvia Syms starred in Asylum
+17: Sylvia Syms and Phil Silvers starred in There Goes the Bride
+18: Phil Silvers and Bert Convy starred in Racquet
+19: Bert Convy and John Ritter starred in Hero at Large
+20: John Ritter and Bonnie Bedelia starred in Manhood
+21: Bonnie Bedelia and Jay Underwood starred in The Boy Who Could Fly
+22: Jay Underwood and Arlene Golonka starred in The Gumshoe Kid
+23: Arlene Golonka and Fred Williamson starred in Foxtrap
+24: Fred Williamson and Paul Winfield starred in Original Gangstas
+25: Paul Winfield and William Smithers starred in Trouble Man
+26: William Smithers and Richard Lynch starred in Deathsport
+27: Richard Lynch and Elizabeth Kaitan starred in Lockdown
+28: Elizabeth Kaitan and Rory Calhoun starred in Roller Blade Warriors: Taken by Force
+29: Rory Calhoun and Bambi Allen starred in The Low Price of Fame
+30: Bambi Allen and Jane Tsentas starred in Terror at Orgy Castle
+31: Jane Tsentas and Cleo O'Hara starred in Evil Come Evil Go
+32: Cleo O'Hara and Andy Bellamy starred in Oh! You Beautiful 'Doll'
+33: Andy Bellamy and Maria Arnold starred in Aphrodisiac!: The Sexual Secret of Marijuana
+34: Maria Arnold and Al Ward starred in A Touch of Sweden
+35: Al Ward and Luanne Roberts starred in Gabriella, Gabriella
+36: Luanne Roberts and Walt Phillips starred in The Affairs of Aphrodite
+37: Walt Phillips and Erica Gavin starred in Erika's Hot Summer
+38: Erica Gavin and Roberta Collins starred in Caged Heat
+39: Roberta Collins and Sandy Martin starred in Vendetta
+40: Sandy Martin and Allen Kirk starred in 2076 Olympiad
+41: Allen Kirk and Geoffrey Deuel starred in Amateur Night
+42: Geoffrey Deuel and Victor Buono starred in The Chinese Caper
+43: Victor Buono and Franca Polesello starred in The Mad Butcher
+44: Franca Polesello and Richard Harrison starred in Shoot Joe, and Shoot Again
+45: Richard Harrison and Karin Well starred in La mondana nuda
+46: Karin Well and Lakis Komninos starred in To hamogelo tis Pythias
+47: Lakis Komninos and Vagelis Seilinos starred in Death Kiss
+48: Vagelis Seilinos and Maria Ioannidou starred in Mia Ellinida Sto Haremi
+49: Maria Ioannidou and Varvara Kiritsi starred in I simoria tou kipou
+50: Varvara Kiritsi and Teta Douzou starred in Ta ftera tou hrimatos
+51: Teta Douzou and Manos Destounis starred in Mia papadia sta bouzoukia!
+52: Manos Destounis and Kostas Karagiorgis starred in Allos gia ton Paradeiso
+53: Kostas Karagiorgis and Dimitris Kollatos starred in Symposium
+54: Dimitris Kollatos and Dora Sitzani starred in Life with Alkis
+55: Dora Sitzani and Ilias Logothetis starred in Metamorfoseis
+56: Ilias Logothetis and Kiriakos Katrivanos starred in Oloi tous trelloi ektos apo mena
+57: Kiriakos Katrivanos and Mihalis Giannatos starred in Die zwei Gesichter des Januar
+58: Mihalis Giannatos and Argyris Bakirtzis starred in The Lost Treasure of Hursit Pasha
+59: Argyris Bakirtzis and Yannis Zouganelis starred in Let the Women Wait
+60: Yannis Zouganelis and Hristos Valavanidis starred in Kardiakos filos
+61: Hristos Valavanidis and Konstantina Mihail starred in Ntolmadakia sti vouli
+62: Konstantina Mihail and Tasos Halkias starred in Oi apisties
+63: Tasos Halkias and Mimi Denissi starred in Anna karenina
+64: Mimi Denissi and Louis-Do de Lencquesaing starred in Blind Sun
+65: Louis-Do de Lencquesaing and Marthe Keller starred in The Holy Family
+66: Marthe Keller and Kevin Bacon starred in I Made This Up
+66: Kevin Bacon and Marlon Brando starred in The Formula
