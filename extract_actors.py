@@ -13,7 +13,10 @@ def extract_actors(input_string):
     
     return result
 
-# Example usage
+# Example usage (from ChatGPT)
+input_text = "Aden Young and Marshall Napier starred in Shotgun Wedding"
+print(extract_actors(input_text))
+
+# Another test of the code that I added
 input_text = "Jane Tsentas and Cleo O'Hara starred in Evil Come Evil Go"
-# input_text = "Aden Young and Marshall Napier starred in Shotgun Wedding"
 print(extract_actors(input_text))

@@ -1,6 +1,7 @@
 This directory contains everything needed for
 **Chapter 18 (Use Generative AI)** in
-*Computational Thinking and Problem Solving*.
+[*Computational Thinking and Problem Solving (CTPS)*](https://profsmith89.github.io/ctps/ctps.html)
+by Michael D. Smith.
 
 `num_lines.py`: Script created by OpenAI's ChatGPT (GPT-4)
 when given the prompt: "Write a python script that prints
