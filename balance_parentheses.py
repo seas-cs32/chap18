@@ -14,10 +14,17 @@ def balance_parentheses(s):
 
 
 def main():
-    # Example input
+    # Example input that `balance_parentheses` answers correctly
     input_parentheses = "(((((((((("
     result = balance_parentheses(input_parentheses)
-    print(result)
+    print(f'Input:  {input_parentheses}')
+    print(f'Output: {result}')
     
+    # Example input that `balance_parentheses` answers incorrectly
+    input_parentheses = "()())"
+    result = balance_parentheses(input_parentheses)
+    print(f'Input:  {input_parentheses}')
+    print(f'Output: {result}')
+
 if __name__ == '__main__':
     main()

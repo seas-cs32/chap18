@@ -34,7 +34,7 @@ def check(lines):
         if line == '':
             continue
 
-        # Define RE pattern and run match on current line
+        # Run match on current line
         m = p.match(line)
 
         # Error checking
@@ -51,7 +51,6 @@ def check(lines):
         increment(count, actor1)
         increment(count, actor2)                
 
-    # print(count)
     print(f'{blue}No repeated actors!{reset}')
 
 def main():
