@@ -11,7 +11,7 @@ def increment(d, key):
     '''Increment the count for key `key` in dictionary `d`'''
     if key in d:
         if d[key] > 1:
-            print(f'Actor "{red}{key}{reset}" occurs too many times')
+            print(f'Actor "{red}{key}{reset}" occurs too often')
             sys.exit()
         else:
             d[key] += 1
